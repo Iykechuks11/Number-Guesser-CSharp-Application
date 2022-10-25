@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CSHARP\02_CS\bin\Debug\net6.0\02_CS.exe
+C:\Users\user\Desktop\CSHARP\02_CS\bin\Debug\net6.0\02_CS.deps.json
+C:\Users\user\Desktop\CSHARP\02_CS\bin\Debug\net6.0\02_CS.runtimeconfig.json
+C:\Users\user\Desktop\CSHARP\02_CS\bin\Debug\net6.0\02_CS.dll
+C:\Users\user\Desktop\CSHARP\02_CS\bin\Debug\net6.0\02_CS.pdb
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.AssemblyInfo.cs
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.dll
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\refint\02_CS.dll
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.pdb
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\02_CS.genruntimeconfig.cache
+C:\Users\user\Desktop\CSHARP\02_CS\obj\Debug\net6.0\ref\02_CS.dll
